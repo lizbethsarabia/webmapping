@@ -24,7 +24,6 @@ These maps are intended for the **general public, policymakers, and researchers*
 
 ## Screenshots
 
-*(Insert screenshots here by placing images in your repo and linking them, e.g.)*
 
 ![Choropleth Map](img/map1.png)  
 ![Proportional Symbols Map](img/map2.png)
