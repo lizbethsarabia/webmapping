@@ -17,8 +17,8 @@ These maps are intended for the **general public, policymakers, and researchers*
 
 ## Project Links
 
-- **Choropleth Map (Case Rates):** [map1.html](https://[your_github_username].github.io/[your_repository_name]/map1.html)  
-- **Proportional Symbols Map (Total Cases):** [map2.html](https://[your_github_username].github.io/[your_repository_name]/map2.html)
+- **Choropleth Map (Case Rates):** [map1.html](https://github.com/lizbethsarabia/webmapping/blob/main/map1.html)  
+- **Proportional Symbols Map (Total Cases):** [map2.html](https://github.com/lizbethsarabia/webmapping/blob/main/map2.html)
 
 ---
 
